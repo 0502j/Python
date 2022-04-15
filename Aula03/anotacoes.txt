@@ -1,0 +1,12 @@
+Orientação a objetos
+
+- Padrão
+- Agrupamento de responsabilidades
+- Código dinâmico / com autonomia
+- Paradigma de programação
+
+/ Classe: Modelo - Molde
+/ Objeto: Entidade da classe - Instância da classe
+/ Método: Como a entidade se comporta 
+/ Atributos: "Variáveis" da classe
+/ Construtor: Inicializa com atributos
